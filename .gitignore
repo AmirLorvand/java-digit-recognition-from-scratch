@@ -1,0 +1,44 @@
+# macOS system files
+
+.DS_Store
+__MACOSX/
+
+# Java compiled files
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output folders
+
+out/
+bin/
+build/
+target/
+dist/
+
+# Eclipse project/workspace files
+
+.metadata/
+.classpath
+.project
+.settings/
+
+# IDE/editor files
+
+.idea/
+.vscode/
+*.iml
+
+# Logs and temporary files
+
+*.log
+*.tmp
+
+# Reports / coursework submission files
+
+AI report.pdf
+*.docx
+*.pptx
+*.mp4
